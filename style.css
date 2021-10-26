@@ -1,0 +1,25 @@
+body {
+  background: #407bff;
+  font-family: "Roboto";
+}
+
+.registerButton {
+  background-color: white;
+  color: #fd9518 !important;
+  border-radius: 50px;
+  size: 30px;
+  font-weight: 900;
+}
+
+.loginButton {
+  background-color: #fd9518;
+  color: white !important;
+  border-radius: 50px;
+  size: 30px;
+  font-weight: 900;
+}
+
+.location {
+  max-width: 500px;
+  margin-left: -15px !important;
+}
